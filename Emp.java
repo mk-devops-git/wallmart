@@ -1,2 +1,2 @@
-This edidted to check wheather it is comng to working dir 
+This line is edited in dev to check the merge conflict 
 This is Emp file
